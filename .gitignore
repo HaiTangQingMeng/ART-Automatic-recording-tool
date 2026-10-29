@@ -1,0 +1,20 @@
+# 构建产物
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.ilk
+build/
+
+# 编译缓存
+*.cache
+
+# 操作系统
+Thumbs.db
+Desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
